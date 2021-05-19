@@ -26,7 +26,7 @@ FarmBot est un robot potager. Il permet de prendre soin des plantes à distance 
 
 Quatre étudiants en informatique en 3ème année INSA Rennes :
 
--   Juliette BONNARD - juliette99bonnard@hotmail.fr
+-   Juliette BONNARD - juhhhtte99bonnard@hotmail.fr
 -   Manuel POISSON - mpoissonmanuel@gmail.com
 -   Pierre DUC-MARTIN - contact@pierredm.fr
 -   Pablo CANCOIN - pablo.cancoin@gmail.com
